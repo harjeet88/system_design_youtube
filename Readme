@@ -1,0 +1,25 @@
+This Repository is Part of System Design Series. As Part of System design Series we are going to cover following things
+1. Basics of Designing System
+2. What is load balancing.
+3. what is consistent hashing.
+5. Bloom Filters
+6. Choosing a no sql system
+7. Design Uber, ola,lyft
+8. Design Cricbuzz/Cricinfo
+
+You will learn how to approach a system design problem in an interview. This video specifically scenario of Uber design Interview. We donot intend to say that uber has exactly same architecture and design as mentioned in this video. Purpose of this video is to explain you that how you will approach to a design problem given in an interview
+
+PPT is available at Github
+
+Facebook: https://www.facebook.com/XoomAnalytics/
+Github : https://github.com/harjeet88/spark_streaming_youtube
+LinkedIn: https://www.linkedin.com/in/harjeetk/
+
+Playlist : https://www.youtube.com/watch?v=fgIgOU0yi0w&list=PL9sbKmQTkW07EzCVhfZ1h1V1TCW0aKK6k&t=0s&index=2
+
+if you are interested to learn about spark, follow following playlist
+
+spark : https://www.youtube.com/playlist?list=PL9sbKmQTkW04_MDKPE8eEwOhYD1-G0Nox
+
+spark streaming :
+#systemdesign #designuber #uberarchitecture
